@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ProblemSet5</string>
+    <string name="add">ADD</string>
+    <string name="openError">Could not load toDoApp.data</string>
+    <string name="writeError">Error in writing to toDoLists.data</string>
+    <string name="prefsName">Preferences</string>
+    <string name="areYouSure">Are you sure you want the remove the list \'</string>
+    <string name="fromToDo">\' from your TO DO lists?</string>
+    <string name="yes">Yes, I\'m sure</string>
+    <string name="no">No, wait!</string>
+    <string name="sureRemove">Are you sure you want to remove the item \'</string>
+    <string name="fromToDoList">\' from your TO DO list?</string>
+    <string name="longPressToRemove">Long-press an item to remove it</string>
+    <string name="LongPressToRemoveList">Long-press a list to remove it</string>
+    <string name="myLists">My TO DO Lists</string>
+</resources>
